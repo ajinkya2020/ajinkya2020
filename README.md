@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajinkya2020
-- 👀 I’m interested in Android Development and Game Development
-- 🌱 I’m currently learning ML and AI
+- 👀 I’m interested in Web and Game Development
 - 💞️ I’m looking to collaborate on a project with the same above mentioned domains
 - 📫 How to reach me:
         Email ID - ajinkyachamp20@gmail.com 
